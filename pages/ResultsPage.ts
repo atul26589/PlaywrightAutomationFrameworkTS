@@ -20,11 +20,12 @@ export class ResultsPage{
 
     //3. page actions:
     async getSearchResultsCount(): Promise<number> {
+        await this.page.waitForTimeout(2000);
         return await this.results.count();
     }
     
     async selectProduct(productName: string) {
-        console.log("==========product name: ====" + productName);
+        console.log('==========product name: ====' + productName);
         await this.eleUtil.click(this.page.getByRole('link', { name: `${productName}` }));
         return new ProductInfoPage(this.page);
     }

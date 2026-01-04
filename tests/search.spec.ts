@@ -1,5 +1,5 @@
 import { ResultsPage } from '../pages/ResultsPage';
-//import { test, expect } from '../fixtures/baseFixtures';
+import { test, expect } from '../fixtures/baseFixtures';
 
 
 //data provider for product search key and results count
@@ -22,5 +22,3 @@ for (const product of searchData) {
 });
 
 }
-
-
