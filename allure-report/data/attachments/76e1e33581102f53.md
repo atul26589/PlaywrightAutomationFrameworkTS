@@ -1,0 +1,196 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - insertion [ref=e2]:
+    - generic [ref=e4]:
+      - generic "These are topics related to the article that might interest you" [ref=e5]: Discover more
+      - link "Framework" [ref=e6] [cursor=pointer]:
+        - img [ref=e8]
+        - text: Framework
+      - link "Automation Testing" [ref=e10] [cursor=pointer]:
+        - img [ref=e12]
+        - text: Automation Testing
+      - link "Testing" [ref=e14] [cursor=pointer]:
+        - img [ref=e16]
+        - text: Testing
+      - link "test" [ref=e18] [cursor=pointer]:
+        - img [ref=e20]
+        - text: test
+      - link "frameworks" [ref=e22] [cursor=pointer]:
+        - img [ref=e24]
+        - text: frameworks
+      - link "test automation" [ref=e26] [cursor=pointer]:
+        - img [ref=e28]
+        - text: test automation
+      - link "Playwright" [ref=e30] [cursor=pointer]:
+        - img [ref=e32]
+        - text: Playwright
+      - link "Selenium" [ref=e34] [cursor=pointer]:
+        - img [ref=e36]
+        - text: Selenium
+      - link "Software framework" [ref=e38] [cursor=pointer]:
+        - img [ref=e40]
+        - text: Software framework
+      - link "Test automation" [ref=e42] [cursor=pointer]:
+        - img [ref=e44]
+        - text: Test automation
+  - link "Skip to the content" [ref=e46] [cursor=pointer]:
+    - /url: "#site-content"
+  - generic [ref=e47]:
+    - list [ref=e52]:
+      - listitem [ref=e53]:
+        - link "Live Training" [ref=e54] [cursor=pointer]:
+          - /url: https://naveenautomationlabs.com/live-training/
+      - listitem [ref=e55]:
+        - text: /
+        - link "Paid Videos/Courses" [ref=e56] [cursor=pointer]:
+          - /url: https://naveenautomationlabs.com/paid-videos-courses/
+      - listitem [ref=e57]:
+        - text: /
+        - link "Generate Page Objects Using AI" [ref=e58] [cursor=pointer]:
+          - /url: https://claude.ai/public/artifacts/03b506e0-cea0-43ee-94e9-bb10dd9106b2?fullscreen=true&utm_source=naveenautomationlabs&utm_medium=website&utm_campaign=page_object_generator&utm_content=launch_button
+      - listitem [ref=e59]:
+        - text: /
+        - link "Test Automation Code Translator" [ref=e60] [cursor=pointer]:
+          - /url: https://claude.ai/public/artifacts/a5a94f5d-df6a-46b8-bf3d-55606cefb8d7?fullscreen=true&utm_source=naveenautomationlabs&utm_medium=website&utm_campaign=code_converter&utm_content=launch_button
+      - listitem [ref=e61]:
+        - text: /
+        - link "cURL to REST Assured Converter" [ref=e62] [cursor=pointer]:
+          - /url: https://claude.ai/public/artifacts/6b0a20b6-ef02-4e63-a0cd-064c01e3a716?fullscreen=true&utm_source=naveenautomationlabs&utm_medium=website&utm_campaign=curl_converter&utm_content=launch_button
+      - listitem [ref=e63]:
+        - text: /
+        - link "Automation Testing Quiz" [ref=e64] [cursor=pointer]:
+          - /url: https://claude.ai/public/artifacts/786b345d-7d09-409b-ac93-c3d248a14993?fullscreen=true&utm_source=naveenautomationlabs&utm_medium=website&utm_campaign=automation_quiz&utm_content=launch_button
+      - listitem [ref=e65]:
+        - text: /
+        - link "Schedule Meeting with Naveen" [ref=e66] [cursor=pointer]:
+          - /url: https://naveenautomationlabs.com/schedule-meeting-with-naveen/
+      - listitem [ref=e67]:
+        - text: /
+        - link "Automation For Manual Testers" [ref=e68] [cursor=pointer]:
+          - /url: https://hubs.la/Q01f0LvK0
+      - listitem [ref=e69]:
+        - text: /
+        - link "AI Testing Tools" [ref=e70] [cursor=pointer]:
+          - /url: https://naveenautomationlabs.com/code-converter.html
+      - listitem [ref=e71]:
+        - text: /
+        - link "Contact Us" [ref=e72] [cursor=pointer]:
+          - /url: https://naveenautomationlabs.com/contact-us/
+    - main [ref=e73]:
+      - generic [ref=e77]:
+        - heading "Error 404" [level=2] [ref=e79]
+        - generic [ref=e80]:
+          - paragraph [ref=e81]: It seems like you have tried to open a page that doesn't exist. It could have been deleted, moved, or it never existed at all. You are welcome to search for what you are looking for with the form below.
+          - search [ref=e82]:
+            - generic [ref=e83]:
+              - generic [ref=e84]: "Search for:"
+              - searchbox "Search for:" [ref=e85]
+            - button "Search" [ref=e86] [cursor=pointer]
+      - complementary [ref=e87]:
+        - generic [ref=e89]:
+          - heading "NEW Playwright+Typescript+End To End Framework BATCH ANNOUNCEMENT – Regular Batch (22nd Jan 2026 – 8 PM IST/ 9:30 AM EST (Registration open now)" [level=3] [ref=e90]
+          - paragraph [ref=e92]:
+            - generic [ref=e93]:
+              - link "New Playwright+Typescript Batch - ANNOUNCEMENT - Registeration Open" [ref=e95] [cursor=pointer]:
+                - /url: https://naveenautomationlabs.com/playwright-training/
+                - paragraph [ref=e96]: New Playwright+Typescript Batch - ANNOUNCEMENT - Registeration Open
+              - paragraph:
+                - generic:
+                  - link:
+                    - /url: https://naveenautomationlabs.com/playwright-training/
+              - paragraph [ref=e97]:
+                - generic:
+                  - link:
+                    - /url: https://naveenautomationlabs.com/playwright-training/
+        - generic [ref=e99]:
+          - 'heading "New Course Launched: GIT Tutorials (End to End) – Basics To Advanced" [level=3] [ref=e100]'
+          - link "Git paid course" [ref=e101] [cursor=pointer]:
+            - /url: https://naveenautomationlabs.com/gitcourse/
+            - img "Git paid course" [ref=e102]
+        - generic:
+          - generic:
+            - paragraph
+    - generic [ref=e106]:
+      - generic [ref=e108]:
+        - heading "Pages" [level=3] [ref=e109]
+        - list [ref=e110]:
+          - listitem [ref=e111]:
+            - link "Contact Us" [ref=e112] [cursor=pointer]:
+              - /url: https://naveenautomationlabs.com/contact-us/
+          - listitem [ref=e113]:
+            - link "Live Training" [ref=e114] [cursor=pointer]:
+              - /url: https://naveenautomationlabs.com/live-training/
+          - listitem [ref=e115]:
+            - link "Manual & Automation Testing of WebServices/API" [ref=e116] [cursor=pointer]:
+              - /url: https://naveenautomationlabs.com/manual-automation-testing-of-webservices-api/
+          - listitem [ref=e117]:
+            - link "Paid Videos/Courses" [ref=e118] [cursor=pointer]:
+              - /url: https://naveenautomationlabs.com/paid-videos-courses/
+          - listitem [ref=e119]:
+            - link "Privacy Policy" [ref=e120] [cursor=pointer]:
+              - /url: https://naveenautomationlabs.com/privacy-policy/
+          - listitem [ref=e121]:
+            - link "Recorded Paid Courses" [ref=e122] [cursor=pointer]:
+              - /url: https://naveenautomationlabs.com/recorded-paid-courses/
+          - listitem [ref=e123]:
+            - link "Refund and Cancellation Policy" [ref=e124] [cursor=pointer]:
+              - /url: https://naveenautomationlabs.com/refund-and-cancellation-policy/
+          - listitem [ref=e125]:
+            - link "Selenium & Java Full Paid Course Recorded Videos" [ref=e126] [cursor=pointer]:
+              - /url: https://naveenautomationlabs.com/selenium-java-full-paid-course-recorded-videos/
+          - listitem [ref=e127]:
+            - link "Terms & Conditions" [ref=e128] [cursor=pointer]:
+              - /url: https://naveenautomationlabs.com/terms-conditions/
+          - listitem [ref=e129]:
+            - link "Welcome to Naveen AutomationLabs" [ref=e130] [cursor=pointer]:
+              - /url: https://naveenautomationlabs.com/
+      - generic:
+        - generic:
+          - paragraph
+    - generic [ref=e132]:
+      - paragraph [ref=e133]:
+        - text: © 2025
+        - link:
+          - /url: https://naveenautomationlabs.com
+      - paragraph [ref=e134]:
+        - generic [ref=e135]:
+          - text: Theme by
+          - link "Anders Norén" [ref=e136] [cursor=pointer]:
+            - /url: https://andersnoren.se
+        - text: — Up ↑
+  - insertion [ref=e137]:
+    - generic [ref=e139]:
+      - generic "These are topics related to the article that might interest you" [ref=e140]: Discover more
+      - link "test automation" [ref=e141] [cursor=pointer]:
+        - img [ref=e143]
+        - text: test automation
+      - link "Testing" [ref=e145] [cursor=pointer]:
+        - img [ref=e147]
+        - text: Testing
+      - link "Automation Testing" [ref=e149] [cursor=pointer]:
+        - img [ref=e151]
+        - text: Automation Testing
+      - link "frameworks" [ref=e153] [cursor=pointer]:
+        - img [ref=e155]
+        - text: frameworks
+      - link "Software Testing" [ref=e157] [cursor=pointer]:
+        - img [ref=e159]
+        - text: Software Testing
+      - link "test" [ref=e161] [cursor=pointer]:
+        - img [ref=e163]
+        - text: test
+      - link "Test automation" [ref=e165] [cursor=pointer]:
+        - img [ref=e167]
+        - text: Test automation
+      - link "Framework" [ref=e169] [cursor=pointer]:
+        - img [ref=e171]
+        - text: Framework
+      - link "Software framework" [ref=e173] [cursor=pointer]:
+        - img [ref=e175]
+        - text: Software framework
+      - link "Playwright" [ref=e177] [cursor=pointer]:
+        - img [ref=e179]
+        - text: Playwright
+```
